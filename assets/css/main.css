@@ -1,9 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-* {
+body {
       background-color: #111;
       color: white;
       text-align: center;
       align-items: center;
       font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+      color: rgb(255, 55, 55);
+      font-weight: bold;
+}
+
+.table {
+      background-color: #333;
+      border: white 5px solid;
+      border-radius: 5px;
+      padding: 5px;
+      margin-top: 25%;
 }
