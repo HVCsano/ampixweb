@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+      background-color: #111;
+      color: white;
+      text-align: center;
+      align-items: center;
+      font-family: 'Roboto', sans-serif;
+}
+
+.withbcone {
+      background-image: url(/assets/bc1.png);
+      background-repeat: no-repeat;
+}
+
+h1 {
+      color: rgb(55, 208, 255);
+      font-weight: bold;
+}
+
+.table {
+      background-color: #333;
+      border: white 5px solid;
+      border-radius: 5px;
+      padding: 5px;
+      margin-top: 25%;
+      margin-left: 25%;
+      margin-right: 25%;
+}
